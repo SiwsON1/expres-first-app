@@ -1,0 +1,21 @@
+body {
+    background-color: gray;
+    color: white;
+  }
+  
+  header {
+    background-color: gray;
+    padding: 20px;
+    display: flex;
+    justify-content: flex-end;
+  }
+  
+  nav {
+    display: flex;
+  }
+  
+  nav a {
+    margin-right: 10px;
+    text-decoration: none;
+    color: white;
+  }
